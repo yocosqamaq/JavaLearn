@@ -1,2 +1,1 @@
-# JavaLearn
-my java learn project
+easy java ui 
